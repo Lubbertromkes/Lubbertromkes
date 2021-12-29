@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lubbertromkes
+- 👋 Hi, I’m @Charrnapoleon
 - 👀 I’m interested in ...
 Gamen en in hacks
 - 🌱 I’m currently learning ...
@@ -8,6 +8,6 @@ een cheat te maken
 - 📫 How to reach me ...
 
 <!---
-Lubbertromkes/Lubbertromkes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Charrnapoleon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
